@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">AnimeKU</string>
+    <string name="image_splashscreen">Image Splashscreen</string>
+    <string name="about">About Me</string>
+    <string name="anime_name">Nama Anime</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="name_received">Menerima Data</string>
+    <string name="Description_received">Menerima Deskripsi</string>
+    <string name="image">gambar</string>
+    <string name="home">home</string>
+    <string name="About">About Me</string>
+    <string name="Detail">Detail</string>
+    <string name="Home">Home</string>
+
+    <string-array name="data_name">
+        <item>One Piace</item>
+        <item>Shingeki no Kyojin</item>
+        <item>Death Note</item>
+        <item>Fullmetal Alchemist: Brotherhood</item>
+        <item>One Punch Man</item>
+        <item>Sword Art Online</item>
+        <item>Boku no Hero Academia</item>
+        <item>Kimetsu no Yaiba</item>
+        <item>Naruto</item>
+        <item>Tokyo Ghoul</item>
+        <item>Hunter x Hunter (2011)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>\t\t\t\t\tGol D. Roger was known as the "Pirate King," the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.
+            \n\t\t\t\t\tEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffys reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.
+            \n\n\tSCORE : 8,69
+            \n\n\tGenres : Action, Adventure, Fantasy
+            \n\n\tFavorites: 191,314 </item>
+
+        <item>\t\t\t\t\tCenturies ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.
+            \t\t\t\t\tAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.
+            \n\n\tSCORE : 8,53
+            \n\n\tGenres :  Action, Award Winning, Drama, Suspense
+            \n\n\tFavorites: 160,457 </item>
+
+        <item>\t\t\t\t\tBrutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.
+            \n\t\t\t\t\tFor his own amusement, Ryuk drops his "Death Note" into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felons name, which disturbingly enacts his first murder.
+            \n\t\t\t\t\tAware of the terrifying godlike power that has fallen into his hands, Light—under the alias "Kira"—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Lights brilliance rivals Ls, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.
+            \n\n\tSCORE : 8,62
+            \n\n\tGenres : Supernatural, Suspense
+            \n\n\tFavorites:  164,859 </item>
+
+        <item>\t\t\t\t\tBrutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.
+            \n\t\t\t\t\tThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing automail, a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosophers Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.
+            \n\t\t\t\t\tAs Edward becomes an infamous alchemist and gains the nickname Fullmetal, the boys journey embroils them in a growing conspiracy that threatens the fate of the world.
+            \n\n\tSCORE : 9,11
+            \n\n\tGenres :   Action, Adventure, Drama, Fantasy
+            \n\n\tFavorites: 213,964</item>
+
+        <item>\t\t\t\t\tAfter a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonses body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonses soul in the physical realm by binding it to a hulking suit of armor.
+            \n\t\t\t\t\tOne day, Saitama catches the attention of 19-year-old cyborg Genos, who witnesses his power and wishes to become Saitama disciple. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society. Saitama, who is shocked that no one knows who he is, quickly agrees. Meeting new allies and taking on new foes, Saitama embarks on a new journey as a member of the Hero Association to experience the excitement of battle he once felt.
+            \n\n\tSCORE : 8,50
+            \n\n\tGenres :  Action, Comedy
+            \n\n\tFavorites: 61,347</item>
+
+        <item>\t\t\t\t\tever since the release of the innovative NerveGear, gamers from all around the globe have been given the opportunity to experience a completely immersive virtual reality. Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination. With the release of this worldwide sensation, gaming has never felt more lifelike.
+            \n\t\t\t\t\tSince he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izukus unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Mights quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!
+            \n\n\tSCORE : 7,90
+            \n\n\tGenres : Action
+            \n\n\tFavorites: 52,883</item>
+
+        <item>\t\t\t\t\tThe appearance of "quirks," newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.
+            \n\t\t\t\t\Since he was a child, the ambitious middle schooler has wanted nothing more than to be a hero. Izukus unfair fate leaves him admiring heroes and taking notes on them whenever he can. But it seems that his persistence has borne some fruit: Izuku meets the number one hero and his personal idol, All Might. All Mights quirk is a unique ability that can be inherited, and he has chosen Izuku to be his successor!
+            \n\t\t\t\t\Enduring many months of grueling training, Izuku enrolls in UA High, a prestigious high school famous for its excellent hero training program, and this years freshmen look especially promising. With his bizarre but talented classmates and the looming threat of a villainous organization, Izuku will soon learn what it really means to be a hero.
+            \n\n\tSCORE : 8,52
+            \n\n\tGenres : Action, Award Winning, Fantasy
+            \n\n\tFavorites: 86,098</item>
+
+        <item>\t\t\t\t\Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamados shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.
+            \n\t\t\t\t\When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sisters humanity.
+            \n\n\tSCORE : 7,20
+            \n\n\tGenres :  Action, Adventure, Fantasy, Romance
+            \n\n\tFavorites: 66,295</item>
+
+        <item>\t\t\t\t\tMoments prior to Naruto Uzumakis birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubis rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+            \n\t\t\t\t\tNow, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.
+            \n\n\tSCORE : 7,98
+            \n\n\tGenres : Action, Adventure, Fantasy
+            \n\n\tFavorites: 74,829</item>
+
+        <item>\t\t\t\t\tA sinister threat is invading Tokyo: flesh-eating ghouls who appear identical to humans and blend into their population. Reserved college student Ken Kaneki buries his nose in books and avoids the news of the growing crisis. However, the appearance of an attractive woman named Rize Kamishiro shatters his solitude when she forwardly asks him on a date.
+            \n\t\t\t\t\tWhile walking Rize home, Kaneki discovers she isnt as kind as she first appeared, and she has led him on with sinister intent. After a tragic struggle, he later awakens in a hospital to learn his life was saved by transplanting the now deceased Rizes organs into his own
+            \n\t\t\t\t\tKanekis body begins to change in horrifying ways, and he transforms into a human-ghoul hybrid. As he embarks on his new dreadful journey, Kaneki clings to his humanity in the evolving bloody conflict between societys new monsters and the government agents who hunt them.
+            \n\n\tSCORE : 6,38
+            \n\n\tGenres :  Action, Fantasy, Horror
+            \n\n\tFavorites: 3,725</item>
+
+        <item>\t\t\t\t\tHunters devote themselves to accomplishing hazardous tasks, all from traversing the worlds uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.
+            \n\t\t\t\t\tAmbitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.
+            \n\t\t\t\t\tDuring the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.
+            \n\n\tSCORE : 9,04
+            \n\n\tGenres : Action, Adventure, Fantasy
+            \n\n\tFavorites: 196,229</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn.myanimelist.net/images/anime/6/73245.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/10/47347.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/9/9453.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/12/76049.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/11/39717.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/10/78745.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1286/99889.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/13/17405.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/5/64449.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1337/99013.jpg</item>
+    </string-array>
+</resources>
